@@ -6,6 +6,13 @@ I've been mainly working at Mercari inc since January 2020.
 <br />
 Lately, I've been developing an app with Flutter and Firebase. That's very interesting :star:
 
+
+![swift](https://img.shields.io/badge/Swift-orange.svg?style=for-the-badge)
+![Flutter](https://img.shields.io/badge/Flutter-blue.svg?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-orange.svg?style=for-the-badge)
+![React](https://img.shields.io/badge/React-blue.svg?style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue.svg?style=for-the-badge)
+
 ![su-'s github stats](https://github-readme-stats.vercel.app/api?username=sgr-ksmt&count_private=true)
 
 ---
