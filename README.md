@@ -11,7 +11,6 @@ Lately, I've been developing an app with Flutter and Firebase. That's very inter
 ![Dart](https://img.shields.io/badge/Dart-00b4ab.svg?style=for-the-badge) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue.svg?style=for-the-badge) 
 ![Objective-C](https://img.shields.io/badge/Objective--c-blue.svg?style=for-the-badge) 
-![TypeScript](https://img.shields.io/badge/TypeScript-blue.svg?style=for-the-badge)  
 
 ![iOS](https://img.shields.io/badge/iOS-blue.svg?style=for-the-badge)
 ![Flutter](https://img.shields.io/badge/Flutter-0175c2.svg?style=for-the-badge)
