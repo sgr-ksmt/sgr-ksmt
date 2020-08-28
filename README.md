@@ -17,8 +17,7 @@ Lately, I've been developing an app with Flutter and Firebase. That's very inter
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-00d8ff.svg?style=for-the-badge)
 
-![su-'s github stats](https://github-readme-stats.vercel.app/api?username=sgr-ksmt&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sgr-ksmt&layout=compact)
+![su-'s github stats](https://github-readme-stats.vercel.app/api?username=sgr-ksmt&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sgr-ksmt&layout=compact)
 ---
 
 See more about me: https://me.sgr-ksmt.org/
