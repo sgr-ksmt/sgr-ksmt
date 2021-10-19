@@ -23,4 +23,7 @@ See more about me: https://me.sgr-ksmt.dev/
 ![trophy](https://github-profile-trophy.vercel.app/?username=sgr-ksmt&theme=darkhub)
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
