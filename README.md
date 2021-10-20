@@ -24,6 +24,7 @@ See more about me: https://me.sgr-ksmt.dev/
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Dart   4 hrs 36 mins   █████████████████████████   99.47 % 
+YAML   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 ```
 <!--END_SECTION:waka-->
