@@ -24,7 +24,7 @@ See more about me: https://me.sgr-ksmt.dev/
 
 <!--START_SECTION:waka-->
 ```text
-Dart   4 hrs 36 mins   █████████████████████████   99.47 % 
-YAML   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Dart   6 hrs 35 mins   █████████████████████████   99.40 % 
+YAML   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 ```
 <!--END_SECTION:waka-->
