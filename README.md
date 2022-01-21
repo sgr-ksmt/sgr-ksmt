@@ -24,10 +24,9 @@ See more about me: https://me.sgr-ksmt.dev/
 
 <!--START_SECTION:waka-->
 ```text
-Dart         9 hrs 32 mins   ██████████████████▓░░░░░░   75.03 % 
-YAML         1 hr 35 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
-Other        1 hr 17 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
-HTML         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Dart         10 hrs 54 mins  █████████████████████░░░░   84.51 % 
+YAML         1 hr 15 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
+Other        28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+HTML         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
 ```
 <!--END_SECTION:waka-->
