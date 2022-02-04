@@ -24,10 +24,10 @@ See more about me: https://me.sgr-ksmt.dev/
 
 <!--START_SECTION:waka-->
 ```text
-Dart         21 hrs 3 mins   █████████████████████▓░░░   86.07 % 
-Other        1 hr 6 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-Text         1 hr 6 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
-YAML         53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
-TypeScript   8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+Dart         19 hrs 25 mins  █████████████████████▒░░░   85.08 % 
+Other        1 hr 6 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+Text         1 hr 6 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+YAML         53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+TypeScript   8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 ```
 <!--END_SECTION:waka-->
