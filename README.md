@@ -26,9 +26,8 @@ See more about me: https://me.sgr-ksmt.dev/
 ```text
 Total: 1 hr 39 mins
 
-Dart         1 hr 24 mins    ████████████▓░░░░░░░░░░░░   50.54 % 
-Other        1 hr 7 mins     ██████████░░░░░░░░░░░░░░░   40.22 % 
-YAML         13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
-XML          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+Dart         1 hr 23 mins    █████████████▓░░░░░░░░░░░   54.96 % 
+Other        52 mins         ████████▓░░░░░░░░░░░░░░░░   34.46 % 
+YAML         15 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
 ```
 <!--END_SECTION:waka-->
