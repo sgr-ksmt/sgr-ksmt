@@ -23,11 +23,11 @@ See more about me: https://me.sgr-ksmt.dev/
 ![trophy](https://github-profile-trophy.vercel.app/?username=sgr-ksmt&theme=darkhub)
 
 <!--START_SECTION:waka-->
+
 ```text
-Dart         11 hrs 42 mins  ██████████████████░░░░░░░   71.47 % 
-TypeScript   3 hrs 51 mins   ██████░░░░░░░░░░░░░░░░░░░   23.59 % 
-Other        24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
-YAML         20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
-JSON         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Dart         9 hrs 29 mins   ███████████████████▒░░░░░   77.21 %
+TypeScript   2 hrs 2 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.58 %
+Other        24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
 ```
+
 <!--END_SECTION:waka-->
