@@ -25,8 +25,8 @@ See more about me: https://me.sgr-ksmt.dev/
 <!--START_SECTION:waka-->
 
 ```text
-Dart         5 hrs 14 mins   ████████████░░░░░░░░░░░░░   48.19 %
-Other        1 hr 40 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.40 %
+Dart         5 hrs 8 mins    ████████████▒░░░░░░░░░░░░   49.52 %
+Other        1 hr 38 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.76 %
 ```
 
 <!--END_SECTION:waka-->
