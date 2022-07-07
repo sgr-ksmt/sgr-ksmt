@@ -25,9 +25,7 @@ See more about me: https://me.sgr-ksmt.dev/
 <!--START_SECTION:waka-->
 
 ```text
-Text    4 mins          ███████████████████████▓░   94.63 %
-Swift   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
-Dart    0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
+Dart   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
