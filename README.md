@@ -26,7 +26,7 @@ See more about me: https://sgr-ksmt.dev/
 ![iOS](https://img.shields.io/badge/iOS-blue.svg?style=for-the-badge)
 ![Flutter](https://img.shields.io/badge/Flutter-0175c2.svg?style=for-the-badge&logo=flutter)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
-![Node](https://img.shields.io/badge/Node-#339933.svg?style=for-the-badge&logo=Node.js&logoColor=white)
+![Node](https://img.shields.io/badge/Node-339933.svg?style=for-the-badge&logo=Node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-00d8ff.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Next](https://img.shields.io/badge/Next.js-ffffff.svg?style=for-the-badge&logo=Next.js&logoColor=black)
 
