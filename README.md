@@ -14,6 +14,9 @@ See more about me: https://sgr-ksmt.dev/
 ### SNS
 [![Twitter](https://img.shields.io/badge/Twitter-00acee.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_sgr_ksmt)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sgr-ksmt/)
+[![Qiita](https://img.shields.io/badge/Qiita-55C500.svg?style=for-the-badge&logo=qiita&logoColor=white)](https://qiita.com/sgr-ksmt)
+[![Zenn](https://img.shields.io/badge/Zenn-3EA8FF.svg?style=for-the-badge&logo=zenn&logoColor=white)](https://zenn.dev/sgr_ksmt)
+
 ---
 
 ### Skills
