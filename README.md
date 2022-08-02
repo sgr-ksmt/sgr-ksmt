@@ -20,19 +20,24 @@ See more about me: https://sgr-ksmt.dev/
 
 ![Swift/SwiftUI](https://img.shields.io/badge/Swift/SwiftUI-ffac45.svg?style=for-the-badge&logo=swift&logoColor=black) 
 ![Dart](https://img.shields.io/badge/Dart-00b4ab.svg?style=for-the-badge&logo=dart&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/TypeScript-blue.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![Objective-C](https://img.shields.io/badge/Objective--c-blue.svg?style=for-the-badge&logo=objc)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![Objective-C](https://img.shields.io/badge/Objective--c-blue.svg?style=for-the-badge&logo=apple)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D.svg?style=for-the-badge&logo=ruby)
+![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP)
 
-![iOS](https://img.shields.io/badge/iOS-blue.svg?style=for-the-badge)
+![iOS](https://img.shields.io/badge/iOS-blue.svg?style=for-the-badge&logo=ios)
 ![Flutter](https://img.shields.io/badge/Flutter-0175c2.svg?style=for-the-badge&logo=flutter)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
-![Node](https://img.shields.io/badge/Node-339933.svg?style=for-the-badge&logo=Node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-00d8ff.svg?style=for-the-badge&logo=react&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=Node.js&logoColor=white)
+![React](https://img.shields.io/badge/React.js-00d8ff.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Next](https://img.shields.io/badge/Next.js-ffffff.svg?style=for-the-badge&logo=Next.js&logoColor=black)
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=white)
 
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB.svg?style=for-the-badge&logo=xcode&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733.svg?style=for-the-badge&logo=vim&logoColor=white)
+![Zsh](https://img.shields.io/badge/Zsh-ffffff.svg?style=for-the-badge&logoColor=black)
 ---
 
 ### Stats
