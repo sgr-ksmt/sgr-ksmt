@@ -22,6 +22,8 @@ See more about me: https://me.sgr-ksmt.dev/
 ![su-'s github stats](https://github-readme-stats.vercel.app/api?username=sgr-ksmt&count_private=true&show_icons=true&theme=github_dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sgr-ksmt&layout=compact&langs_count=8&theme=github_dark)
 ![trophy](https://github-profile-trophy.vercel.app/?username=sgr-ksmt&theme=darkhub)
 
+[![sgr-ksmt's github activity graph](https://activity-graph.herokuapp.com/graph?username=sgr-ksmt&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <!--START_SECTION:waka-->
 
 ```text
