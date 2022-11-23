@@ -54,10 +54,9 @@ See more about me: https://sgr-ksmt.dev/
 <!--START_SECTION:waka-->
 
 ```text
-Text         17 mins         ██████████▒░░░░░░░░░░░░░░   40.72 %
-YAML         15 mins         █████████▒░░░░░░░░░░░░░░░   36.90 %
-Markdown     3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 %
-Other        2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
+YAML         15 mins         ████████████████▒░░░░░░░░   65.31 %
+Markdown     3 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.81 %
+Other        2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.03 %
 ```
 
 <!--END_SECTION:waka-->
