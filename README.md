@@ -54,8 +54,8 @@ See more about me: https://sgr-ksmt.dev/
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   2 hrs 33 mins   ███████████████████████▓░   94.51 %
-Other        5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
+TypeScript   23 mins         ██████████████████▓░░░░░░   75.24 %
+Other        5 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.70 %
 ```
 
 <!--END_SECTION:waka-->
