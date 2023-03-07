@@ -54,10 +54,8 @@ See more about me: https://sgr-ksmt.dev/
 <!--START_SECTION:waka-->
 
 ```text
-YAML         2 hrs 47 mins   ████████████████████████▓   98.64 %
-Markdown     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+YAML         2 hrs 47 mins   █████████████████████████   99.78 %
 Terraform    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
