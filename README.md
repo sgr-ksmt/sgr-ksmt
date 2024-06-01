@@ -54,11 +54,11 @@ See more about me: https://sgr-ksmt.dev/
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   6 hrs 33 mins   ██████████████░░░░░░░░░░░   55.63 %
-Dart         4 hrs 25 mins   █████████▒░░░░░░░░░░░░░░░   37.51 %
-YAML         24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
-Other        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
-Groovy       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+TypeScript   6 hrs 18 mins   █████████████▓░░░░░░░░░░░   54.04 %
+Dart         4 hrs 32 mins   █████████▓░░░░░░░░░░░░░░░   39.00 %
+YAML         24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
+Other        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
+Groovy       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
 ```
 
 <!--END_SECTION:waka-->
