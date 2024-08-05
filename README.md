@@ -6,7 +6,7 @@
 
 My name is Suguru Kishimoto. Please call me su- 😎  
 I have about ten year's experience in an iOS software engineer.  
-Currently, I work at Mercari as both iOS Software Engineer and Engineering Manager.  
+
 
 See more about me: https://sgr-ksmt.dev/
 
