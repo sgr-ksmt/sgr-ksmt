@@ -54,9 +54,9 @@ See more about me: https://sgr-ksmt.dev/
 <!--START_SECTION:waka-->
 
 ```txt
-Bash   1 hr 5 mins     ███████████████████████▓░   94.27 %
-Dart   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
-Text   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+Bash   1 hr 8 mins     ███████████████████████▓░   94.57 %
+Dart   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
+Text   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
 ```
 
 <!--END_SECTION:waka-->
