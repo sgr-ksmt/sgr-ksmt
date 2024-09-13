@@ -54,11 +54,9 @@ See more about me: https://sgr-ksmt.dev/
 <!--START_SECTION:waka-->
 
 ```txt
-Dart        1 hr 50 mins    ███████████████████████▒░   93.01 %
-Terraform   6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
-XML         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
-Other       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-Bash        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Dart        1 hr 45 mins    ███████████████████████▓░   94.44 %
+Terraform   6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
+Other       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
