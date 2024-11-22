@@ -54,10 +54,9 @@ See more about me: https://sgr-ksmt.dev/
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 3 mins     ███████████████████████░░   92.62 %
-Dart         4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.02 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+TypeScript   1 hr 3 mins     ██████████████████████▒░░   89.30 %
+Dart         7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.53 %
+TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
