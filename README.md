@@ -54,10 +54,8 @@ See more about me: https://sgr-ksmt.dev/
 <!--START_SECTION:waka-->
 
 ```txt
-YAML        43 mins         █████████████████████▒░░░   85.85 %
-Dart        7 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.80 %
-CocoaPods   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-Groovy      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+YAML   29 mins         ████████████████████████▓   98.66 %
+Dart   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
 ```
 
 <!--END_SECTION:waka-->
