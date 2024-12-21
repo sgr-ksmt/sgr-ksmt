@@ -54,7 +54,10 @@ See more about me: https://sgr-ksmt.dev/
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Dart     22 mins         ████████████████████▓░░░░   82.13 %
+JSON     3 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.61 %
+YAML     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
+Groovy   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
 ```
 
 <!--END_SECTION:waka-->
