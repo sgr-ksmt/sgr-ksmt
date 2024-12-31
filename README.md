@@ -54,11 +54,11 @@ See more about me: https://sgr-ksmt.dev/
 <!--START_SECTION:waka-->
 
 ```txt
-Groovy            2 hrs 27 mins   ████████▒░░░░░░░░░░░░░░░░   33.69 %
-Terraform         59 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.63 %
-XML               58 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.25 %
-TypeScript        53 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.18 %
-JSON              44 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.20 %
+Groovy            2 hrs 27 mins   █████████░░░░░░░░░░░░░░░░   35.94 %
+Terraform         59 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.54 %
+XML               58 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.14 %
+TypeScript        53 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.99 %
+JSON              40 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.91 %
 ```
 
 <!--END_SECTION:waka-->
