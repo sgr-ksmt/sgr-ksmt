@@ -54,7 +54,11 @@ See more about me: https://sgr-ksmt.dev/
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JSON         3 mins          ███████████████▓░░░░░░░░░   62.27 %
+Git Config   1 min           ██████▒░░░░░░░░░░░░░░░░░░   24.88 %
+YAML         0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.84 %
+TOML         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+Markdown     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
 ```
 
 <!--END_SECTION:waka-->
