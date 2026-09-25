@@ -8,7 +8,7 @@ See more about me: https://sgr-ksmt.dev/
 
 ---
 ### SNS
-[![Twitter](https://img.shields.io/badge/Twitter-00acee.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_sgr_ksmt)
+[![Twitter](https://img.shields.io/badge/Twitter-00acee.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sgr_ksmt)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sgr-ksmt/)
 [![Qiita](https://img.shields.io/badge/Qiita-55C500.svg?style=for-the-badge&logo=qiita&logoColor=white)](https://qiita.com/sgr-ksmt)
 [![Zenn](https://img.shields.io/badge/Zenn-3EA8FF.svg?style=for-the-badge&logo=zenn&logoColor=white)](https://zenn.dev/sgr_ksmt)
@@ -39,18 +39,3 @@ See more about me: https://sgr-ksmt.dev/
 ![Zsh](https://img.shields.io/badge/Zsh-ffffff.svg?style=for-the-badge&logoColor=black)
 ---
 
-### Stats
-
-![su-'s github stats](https://github-readme-stats.vercel.app/api?username=sgr-ksmt&count_private=true&show_icons=true&theme=github_dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sgr-ksmt&layout=compact&langs_count=8&theme=github_dark)
-![trophy](https://github-profile-trophy.vercel.app/?username=sgr-ksmt&theme=darkhub)
-
-[![sgr-ksmt's github activity graph](https://activity-graph.herokuapp.com/graph?username=sgr-ksmt&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
