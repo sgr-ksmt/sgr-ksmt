@@ -1,7 +1,3 @@
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=sgr-ksmt.visitor-badge)
-
---- 
-
 ### Hi there 👋
 
 My name is Suguru Kishimoto. Please call me su- 😎  
